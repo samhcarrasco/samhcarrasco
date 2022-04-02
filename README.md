@@ -9,13 +9,12 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/shcarrasco1" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>
+  <a href="https://twitter.com/shcarrasco1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/samuelhcarrasco/" target="_blank"><img width="32px" alt="Linkedin" title="Sam's linkedinpage" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
+  <a href="https://www.linkedin.com/in/samuelhcarrasco/"><img width="32px" alt="Linkedin" title="Sam's linkedinpage" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://medium.com/@samhcarrasco"><img width="32px" alt="medium" title="medium" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/></a>
+
 </p>
 
 
