@@ -1,3 +1,4 @@
+Welcome to Sam's page👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page!)](https://git.io/typing-svg)
 
 <!--
