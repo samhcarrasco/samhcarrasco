@@ -82,5 +82,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samhcarrasco)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samhcarrasco&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
